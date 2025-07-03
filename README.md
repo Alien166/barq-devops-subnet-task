@@ -53,8 +53,8 @@ It's a Python-based tool for analyzing and visualizing IP subnet data, The tool 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd Barq-System
+git clone https://github.com/Alien166/barq-devops-subnet-task.git
+cd barq-devops-subnet-task
 ```
 
 ### 2. Place your `ip_data.xlsx` file in the project root directory.
